@@ -1,0 +1,1 @@
+export function getLogoUrl() { return 'https://placehold.co/40x40/png' }
